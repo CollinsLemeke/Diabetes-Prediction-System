@@ -72,7 +72,7 @@ This project may include:
 Logistic Regression
 
 ### Results
-Best Model Accuracy: ~XX%
+Best Model Accuracy: 95%
 
 ### Requirements
 Python 3.x
